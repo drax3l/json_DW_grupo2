@@ -1,0 +1,306 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 100%;
+  height: 1117px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v27_3 {
+  width: 55px;
+  height: 55px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 49px;
+  left: 1526px;
+  border-radius: 50%;
+}
+.v34_6 {
+  width: 55px;
+  height: 55px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 49px;
+  left: 1460px;
+  border-radius: 50%;
+}
+.v45_16 {
+  width: 55px;
+  height: 55px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 49px;
+  left: 1394px;
+  border-radius: 50%;
+}
+.v1_3 {
+  width: 126px;
+  height: 126px;
+  background: url("/img/v1_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 14px;
+  left: 57px;
+  overflow: hidden;
+}
+.v1_4 {
+  width: 138px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 64px;
+  left: 581px;
+  font-family: SansSerif;
+  font-weight: Bold;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_5 {
+  width: 133px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 63px;
+  left: 770px;
+  font-family: SansSerif;
+  font-weight: Bold;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_6 {
+  width: 108px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 62px;
+  left: 954px;
+  font-family: SansSerif;
+  font-weight: Bold;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_7 {
+  width: 135px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 63px;
+  left: 1113px;
+  font-family: SansSerif;
+  font-weight: Bold;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_8 {
+  width: 52px;
+  height: 52px;
+  background: url("/img/v1_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 49px;
+  left: 1614px;
+  overflow: hidden;
+}
+.v1_9 {
+  width: 34px;
+  height: 35px;
+  background: url("/img/v1_9.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 60px;
+  left: 1535px;
+  overflow: hidden;
+}
+.v1_10 {
+  width: 86px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 63px;
+  left: 444px;
+  font-family: SansSerif;
+  font-weight: Bold;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_28 {
+  width: 100%;
+  height: 969px;
+  background: url("/img/v2_28.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 152px;
+  left: 707px;
+  overflow: hidden;
+}
+.v1_26 {
+  width: 903px;
+  height: 966px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 151px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_27 {
+  width: 777px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 250px;
+  left: 126px;
+  font-family: Akira Expanded;
+  font-weight: Super Bold;
+  font-size: 80px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_29 {
+  width: 269px;
+  height: 62px;
+  background: rgba(206,142,74,1);
+  opacity: 1;
+  position: absolute;
+  top: 921px;
+  left: 317px;
+}
+.v2_31 {
+  width: 238px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 934px;
+  left: 333px;
+  font-family: SansSerif;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v10_239 {
+  width: 308px;
+  height: 426px;
+  background: url("/img/v10_239.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 460px;
+  left: 317px;
+  overflow: hidden;
+}
+.v8_13 {
+  width: 574px;
+  height: 861px;
+  background: url("/img/v8_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 256px;
+  left: 1002px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v16_20 {
+  width: 32px;
+  height: 19px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 244px;
+  left: 627px;
+  border: 1px solid rgba(255,255,255,1);
+  transform: rotate(-14deg);
+}
+.v34_8 {
+  width: 28px;
+  height: 29px;
+  background: url("/img/v34_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 62px;
+  left: 1474px;
+  overflow: hidden;
+}
+.v45_18 {
+  width: 33px;
+  height: 33px;
+  background: url("/img/v45_18.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 62px;
+  left: 1405px;
+  overflow: hidden;
+}
+
+/* Navbar Styles */
+.navbar {
+  width: 100%;
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar ul li {
+  padding: 14px 20px;
+}
+
+.navbar ul li a {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+}
+
+.navbar ul li a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+body {
+  padding-top: 50px; /* Adjust this value if your navbar height changes */
+}

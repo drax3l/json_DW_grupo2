@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <link rel="stylesheet" href="/css/bot.css">
+</head>
+<body>
+    <%- include('partials/navigation') %>
+    <div class="container">
+        <header>
+            <h1>Bienvenido al Chatbot</h1>
+        </header>
+        <main>
+            <div class="chatbot-container">
+                <iframe
+                    allow="microphone;"
+                    width="350"
+                    height="430"
+                    src="https://console.dialogflow.com/api-client/demo/embedded/7569d993-f556-4308-81ca-f3e79f40dccd">
+                </iframe>
+            </div>
+        </main>
+        <footer>
+            <p>Powered by Dialogflow</p>
+        </footer>
+    </div>
+</body>
+</html>

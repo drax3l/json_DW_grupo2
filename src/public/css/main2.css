@@ -1,0 +1,106 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v5_2 {
+    width: 100%;
+    height: 1117px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v8_15 {
+    width: 100%;
+    height: 100%;
+    background: url("/img/v8_15.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v14_2 {
+    width: 932px;
+    height: 100%;
+    background: url("/img/v14_2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 14px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v14_3 {
+    width: 689px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 538px;
+    left: 957px;
+    font-family: Akira Expanded;
+    font-weight: Super Bold;
+    font-size: 80px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v14_9 {
+    width: 665px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 729px;
+    left: 957px;
+    font-family: SansSerif;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: justified;
+  }
+  
+  /* Navbar Styles */
+.navbar {
+  width: 100%;
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar ul li {
+  padding: 14px 20px;
+}
+
+.navbar ul li a {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+}
+
+.navbar ul li a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+body {
+  padding-top: 50px; /* Adjust this value if your navbar height changes */
+}
