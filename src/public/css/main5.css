@@ -219,7 +219,8 @@
     left: 461px;
     overflow: hidden;
   }
-  /* Navbar Styles */
+
+/* Navbar Styles */
 .navbar {
     width: 100%;
     background-color: #333;
@@ -257,4 +258,3 @@
 body {
     padding-top: 50px; /* Adjust this value if your navbar height changes */
 }
-  
